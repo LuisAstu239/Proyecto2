@@ -1,0 +1,18 @@
+body {
+    background-image: url('imagenes/fondo.jpg');
+    background-size: cover;
+    color: rgb(190, 154, 62);
+    font-family: Century Gothic, sans-serif;
+}
+table {
+    width: 100%;
+    color: rgb(192, 183, 86);
+    border-collapse: collapse;
+}
+td, th {
+    padding: 10px;
+    border: 1px solid rgb(183, 196, 111);
+}
+.image-column {
+    width: 40%;
+}
